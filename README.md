@@ -27,7 +27,7 @@ Markdown Cheatsheet<a name="TOP"></a>
     Markup: --------------- (below H2 text)
 
 
-### Heading 3 ###
+### Heading 3 ### Manapat Kaewlai 662115039
 
 
     Markup :  ### Heading 3 ###
